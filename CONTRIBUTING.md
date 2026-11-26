@@ -3,7 +3,7 @@
 Contributions to jupyter-resource-usage are highly welcome! As a [Jupyter](https://jupyter.org) project,
 you can follow the [Jupyter contributor guide](https://docs.jupyter.org/en/latest/contributing/content-contributor.html).
 
-Make sure to also follow [Project Jupyter's Code of Conduct](https://github.com/jupyter/governance/blob/main/conduct/code_of_conduct.md)
+Make sure to also follow [Project Jupyter's Code of Conduct](https://github.com/jupyter/governance/blob/main/docs/conduct/code_of_conduct.md)
 for a friendly and welcoming collaborative environment.
 
 ## Setting up a development environment
